@@ -1,0 +1,7 @@
+
+Sistema unificado
+
+O sistema se inicia com um login e senha de cada máquina local, com um banco de dados já iniciado (uma máquina), assim que inicializado abre um menu do qual o usuario necessita, bem como, contas a pagar, contas a receber, notas de entrada, notas de saída, conhecimentos etc.
+	Ele conta também com um menu onde você pode gerar o XML de um período necessário, podendo também compartilhar esse arquivo por vários sistemas, como email, whatsapp, drive, etc.
+	Existem preferências dentro do sistema unificado, que permitem você escolher a melhor forma que o usuário prefere, podendo escolher também entre uma interface mais bonita ou com intuito de desempenho, também opções bem como no contas a pagar fazendo desconsiderar sábados, domingos e feriados nacionais.
+	Outras opções que também contam no sistema é lançamento de conhecimentos, integrado com o contas a pagar, armazenamento de SPED Fiscais, Manifesto de cargas MDF-e, tudo isso integrado a um software desktop logado em um banco de dados local com uma máquina master.
